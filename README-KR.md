@@ -9,7 +9,7 @@ LXGW 문해(文楷) KR은 연필이나 펜으로 손으로 쓴 스크립트 글�
 ### 문자
 - 유니코드로 정의된 모든 현대 한글 음절(11,172자);
 - KS X 1001 및 KS X 1002의 모든 한자(4,620 + 2,856 = 7,476자);
-- IICore의 모든 한중일 문자(9,810자);
+- [IICore의](https://github.com/NightFurySL2001/CJK-character-count/blob/master/iicore-han.txt) 모든 한중일 문자(9,810자);
 - 대부분의 라틴 문자, 구두점 및 기호 LXGW WenKai.
 ## 글꼴 가져오기
 ### 글꼴 파일 다운로드
