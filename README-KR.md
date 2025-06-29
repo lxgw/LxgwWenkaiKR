@@ -1,7 +1,7 @@
 > [!NOTE]
 > 다음 한국어 콘텐츠는 DeepL 에서 번역한 것으로 정확성을 보장하지 않을 수 있습니다. 영어 또는 중국어 사용설명서 파일을 참조하세요.
 
-[English](README.md) / 한국어 / 繁體中文 
+[English](./README.md) / 한국어 / 繁體中文 
 #  LXGW 문해 KR / LXGW WenKai KR / 霞鶩文楷 KR
 [LXGW WenKai](https://github.com/lxgw/LxgwWenKai)의 한글판.
 ## 소개
