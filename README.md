@@ -6,7 +6,7 @@ LXGW WenKai KR is an open-source font derived from Fontworks' [Klee One](https:/
 ### Characters
 - All modern Hangul syllables defined by Unicode (11,172 characters);
 - All Hanjas in KS X 1001 and KS X 1002 (4,620 + 2,856 = 7,476 characters);
-- All CJK characters in IICore (9,810 characters);
+- All CJK characters in [IICore](https://github.com/NightFurySL2001/CJK-character-count/blob/master/iicore-han.txt) (9,810 characters);
 - Most of Latin characters, punctuations and symbols in LXGW WenKai.
 ## Get the font
 ### Download the font files
