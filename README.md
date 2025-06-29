@@ -1,4 +1,4 @@
-English / [한국어](./README-KR.md) / [繁體中文](./README-CHT.md) 
+English | [한국어](./README-KR.md) | [繁體中文](./README-CHT.md) 
 # LXGW WenKai KR / LXGW 문해 KR / 霞鶩文楷 KR
 The Korean Edition of [LXGW WenKai](https://github.com/lxgw/LxgwWenKai).
 ## Introduction
