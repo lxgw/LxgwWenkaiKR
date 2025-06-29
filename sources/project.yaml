@@ -1,0 +1,17 @@
+sources:
+  - build/LXGWWenKaiMonoKR-Light.ufo
+  - build/LXGWWenKaiMonoKR-Medium.ufo
+  - build/LXGWWenKaiMonoKR-Regular.ufo
+  - build/LXGWWenKaiKR-Light.ufo
+  - build/LXGWWenKaiKR-Medium.ufo
+  - build/LXGWWenKaiKR-Regular.ufo
+reverseOutlineDirection: False
+removeOutlineOverlaps: False
+buildOTF: False
+buildTTF: True
+buildWebfont: False
+autohintTTF: False
+
+outputDir: ../fonts
+ttDir: $outputDir/TTF
+otDir: $outputDir/OTF
