@@ -27,7 +27,7 @@
 - 原始字型發行商：Fontworks（現 Monotype 株式會社）
 - 衍生字型開發者：LXGW 霞鶩
 ## 鳴謝
-- [@派對大魔王](https://github.com/Partyb0ssishere) 及其 [快去寫作業](https://github.com/Partyb0ssishere/cef-fonts-cjk )字體提供諺文字形模板；
+- [@派對大魔王](https://github.com/Partyb0ssishere) 及其 [快去寫作業](https://github.com/Partyb0ssishere/cef-fonts-cjk ) 提供諺文字形模板；
 - 部分漢字字形借用 [@Steve-Yuu](https://github.com/Steve-Yuu) 的 [Y 式筆書體](https://github.com/Steve-Yuu/YshiPen-Shuti)；
 - [Iosevka](https://github.com/be5invis/Iosevka) / [Nerd-Fonts](https://github.com/ryanoasis/nerd-fonts) 提供等寬字型所用的 Powerline 符號；
 - 方塊繪製字元、表意文字結構描述符（Ideographic Description Character, IDC）等字元借自 [思源黑體](https://github.com/adobe-fonts/source-han-sans)；
