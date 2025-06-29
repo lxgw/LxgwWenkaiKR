@@ -1,4 +1,4 @@
-[English](./README.md) / [한국어](./README-KR.md) / 繁體中文 
+[English](./README.md) | [한국어](./README-KR.md) | 繁體中文 
 # 霞鶩文楷 KR / LXGW WenKai KR / LXGW 문해 KR
 [霞鶩文楷](https://github.com/lxgw/LxgwWenKai)韓文版。
 ## 字體簡介
