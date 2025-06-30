@@ -1738,58 +1738,9 @@
       <string>u2E55</string>
       <string>u2E56</string>
       <string>u31BB</string>
-      <string>uA4D0</string>
-      <string>uA4D1</string>
-      <string>uA4D2</string>
-      <string>uA4D3</string>
-      <string>uA4D4</string>
-      <string>uA4D5</string>
-      <string>uA4D6</string>
-      <string>uA4D7</string>
-      <string>uA4D8</string>
-      <string>uA4D9</string>
-      <string>uA4DA</string>
-      <string>uA4DB</string>
-      <string>uA4DC</string>
-      <string>uA4DD</string>
-      <string>uA4DE</string>
-      <string>uA4DF</string>
-      <string>uA4E0</string>
-      <string>uA4E1</string>
-      <string>uA4E2</string>
-      <string>uA4E3</string>
-      <string>uA4E4</string>
-      <string>uA4E5</string>
-      <string>uA4E6</string>
-      <string>uA4E7</string>
-      <string>uA4E8</string>
-      <string>uA4E9</string>
-      <string>uA4EA</string>
-      <string>uA4EB</string>
-      <string>uA4EC</string>
-      <string>uA4ED</string>
-      <string>uA4EE</string>
-      <string>uA4EF</string>
-      <string>uA4F0</string>
-      <string>uA4F1</string>
-      <string>uA4F2</string>
-      <string>uA4F3</string>
-      <string>uA4F4</string>
-      <string>uA4F5</string>
-      <string>uA4F6</string>
-      <string>uA4F7</string>
-      <string>uA4F8</string>
-      <string>uA4F9</string>
-      <string>uA4FA</string>
-      <string>uA4FB</string>
-      <string>uA4FC</string>
-      <string>uA4FD</string>
-      <string>uA4FE</string>
-      <string>uA4FF</string>
-      <string>uA7AE</string>
-      <string>uA7AF</string>
-      <string>u11FB0</string>
-      <string>PureWriter</string>
+
+ 
+ 
       <string>glyph33707</string>
       <string>glyph33708</string>
       <string>glyph33709</string>
@@ -1946,22 +1897,7 @@
         <string>quotedblleft</string>
         <key>201D</key>
         <string>quotedblright</string>
-        <key>3001</key>
-        <string>uFE51</string>
-        <key>3002</key>
-        <string>u3002.1</string>
-        <key>FF01</key>
-        <string>uFE57</string>
-        <key>FF0C</key>
-        <string>uFE50</string>
-        <key>FF0E</key>
-        <string>uFE52</string>
-        <key>FF1A</key>
-        <string>uFE55</string>
-        <key>FF1B</key>
-        <string>uFE54</string>
-        <key>FF1F</key>
-        <string>uFE56</string>
+
       </dict>
       <key>FE01</key>
       <dict>
@@ -1973,22 +1909,7 @@
         <string>quotedblleft.full</string>
         <key>201D</key>
         <string>quotedblright.full</string>
-        <key>3001</key>
-        <string>u3001</string>
-        <key>3002</key>
-        <string>u3002</string>
-        <key>FF01</key>
-        <string>uFF01</string>
-        <key>FF0C</key>
-        <string>uFF0C</string>
-        <key>FF0E</key>
-        <string>uFF0E</string>
-        <key>FF1A</key>
-        <string>uFF1A</string>
-        <key>FF1B</key>
-        <string>uFF1B</string>
-        <key>FF1F</key>
-        <string>uFF1F</string>
+
       </dict>
     </dict>
   </dict>

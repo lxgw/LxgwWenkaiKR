@@ -216,8 +216,7 @@
     <string>P_i.glif</string>
     <key>Psi</key>
     <string>P_si.glif</string>
-    <key>PureWriter</key>
-    <string>P_ureW_riter.glif</string>
+
     <key>Q</key>
     <string>Q_.glif</string>
     <key>R</key>
@@ -1978,8 +1977,7 @@
     <string>u04F_F_.glif</string>
     <key>u0E3F</key>
     <string>u0E_3F_.glif</string>
-    <key>u11FB0</key>
-    <string>u11F_B_0.glif</string>
+
     <key>u1D00</key>
     <string>u1D_00.glif</string>
     <key>u1D04</key>
@@ -3236,102 +3234,7 @@
     <string>u31B_7.glif</string>
     <key>u31BB</key>
     <string>u31B_B_.glif</string>
-    <key>uA4D0</key>
-    <string>uA_4D_0.glif</string>
-    <key>uA4D1</key>
-    <string>uA_4D_1.glif</string>
-    <key>uA4D2</key>
-    <string>uA_4D_2.glif</string>
-    <key>uA4D3</key>
-    <string>uA_4D_3.glif</string>
-    <key>uA4D4</key>
-    <string>uA_4D_4.glif</string>
-    <key>uA4D5</key>
-    <string>uA_4D_5.glif</string>
-    <key>uA4D6</key>
-    <string>uA_4D_6.glif</string>
-    <key>uA4D7</key>
-    <string>uA_4D_7.glif</string>
-    <key>uA4D8</key>
-    <string>uA_4D_8.glif</string>
-    <key>uA4D9</key>
-    <string>uA_4D_9.glif</string>
-    <key>uA4DA</key>
-    <string>uA_4D_A_.glif</string>
-    <key>uA4DB</key>
-    <string>uA_4D_B_.glif</string>
-    <key>uA4DC</key>
-    <string>uA_4D_C_.glif</string>
-    <key>uA4DD</key>
-    <string>uA_4D_D_.glif</string>
-    <key>uA4DE</key>
-    <string>uA_4D_E_.glif</string>
-    <key>uA4DF</key>
-    <string>uA_4D_F_.glif</string>
-    <key>uA4E0</key>
-    <string>uA_4E_0.glif</string>
-    <key>uA4E1</key>
-    <string>uA_4E_1.glif</string>
-    <key>uA4E2</key>
-    <string>uA_4E_2.glif</string>
-    <key>uA4E3</key>
-    <string>uA_4E_3.glif</string>
-    <key>uA4E4</key>
-    <string>uA_4E_4.glif</string>
-    <key>uA4E5</key>
-    <string>uA_4E_5.glif</string>
-    <key>uA4E6</key>
-    <string>uA_4E_6.glif</string>
-    <key>uA4E7</key>
-    <string>uA_4E_7.glif</string>
-    <key>uA4E8</key>
-    <string>uA_4E_8.glif</string>
-    <key>uA4E9</key>
-    <string>uA_4E_9.glif</string>
-    <key>uA4EA</key>
-    <string>uA_4E_A_.glif</string>
-    <key>uA4EB</key>
-    <string>uA_4E_B_.glif</string>
-    <key>uA4EC</key>
-    <string>uA_4E_C_.glif</string>
-    <key>uA4ED</key>
-    <string>uA_4E_D_.glif</string>
-    <key>uA4EE</key>
-    <string>uA_4E_E_.glif</string>
-    <key>uA4EF</key>
-    <string>uA_4E_F_.glif</string>
-    <key>uA4F0</key>
-    <string>uA_4F_0.glif</string>
-    <key>uA4F1</key>
-    <string>uA_4F_1.glif</string>
-    <key>uA4F2</key>
-    <string>uA_4F_2.glif</string>
-    <key>uA4F3</key>
-    <string>uA_4F_3.glif</string>
-    <key>uA4F4</key>
-    <string>uA_4F_4.glif</string>
-    <key>uA4F5</key>
-    <string>uA_4F_5.glif</string>
-    <key>uA4F6</key>
-    <string>uA_4F_6.glif</string>
-    <key>uA4F7</key>
-    <string>uA_4F_7.glif</string>
-    <key>uA4F8</key>
-    <string>uA_4F_8.glif</string>
-    <key>uA4F9</key>
-    <string>uA_4F_9.glif</string>
-    <key>uA4FA</key>
-    <string>uA_4F_A_.glif</string>
-    <key>uA4FB</key>
-    <string>uA_4F_B_.glif</string>
-    <key>uA4FC</key>
-    <string>uA_4F_C_.glif</string>
-    <key>uA4FD</key>
-    <string>uA_4F_D_.glif</string>
-    <key>uA4FE</key>
-    <string>uA_4F_E_.glif</string>
-    <key>uA4FF</key>
-    <string>uA_4F_F_.glif</string>
+
     <key>uA730</key>
     <string>uA_730.glif</string>
     <key>uA731</key>
