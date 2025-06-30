@@ -281,12 +281,11 @@ Copyright 2020 The Klee Project Authors (https://github.com/fontworks-fonts/Klee
 			<key>string</key>
 			<string>Light</string>
 		</dict>
-
 	</array>
 	<key>openTypeNameUniqueID</key>
-	<string>LXGW WenKai Mono KR Light:Version 1.520</string>
+	<string>LXGW WenKai Mono KR Light:Version 0.900</string>
 	<key>openTypeNameVersion</key>
-	<string>Version 1.520; June 16, 2025</string>
+	<string>Version 0.900; June 30, 2025</string>
 	<key>openTypeOS2CodePageRanges</key>
 	<array>
 		<integer>0</integer>
@@ -438,9 +437,9 @@ Copyright 2020 The Klee Project Authors (https://github.com/fontworks-fonts/Klee
 	<key>unitsPerEm</key>
 	<integer>1000</integer>
 	<key>versionMajor</key>
-	<integer>1</integer>
+	<integer>0</integer>
 	<key>versionMinor</key>
-	<integer>520</integer>
+	<integer>900</integer>
 	<key>xHeight</key>
 	<integer>468</integer>
 </dict>
