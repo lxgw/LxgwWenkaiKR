@@ -2,7 +2,7 @@
 # 霞鶩文楷 KR / LXGW WenKai KR / LXGW 문해 KR
 [霞鶩文楷](https://github.com/lxgw/LxgwWenKai)韓文版。
 ## 字體簡介
-「霞鶩文楷 KR」是一款基於 [Klee One](https://github.com/fontworks-fonts/Klee) 衍生的開源字型。Klee One 是由 Francis Chow 最初設計，由 Fontworks 發行的硬筆手書日文字體。
+「霞鶩文楷 KR」是一款基於 [Klee One](https://github.com/fontworks-fonts/Klee) 衍生的開源字型。Klee One 是由 Francis Chow 最初設計，由 Fontworks 發行的硬筆手書日文字型。
 
 「霞鶩文楷 KR」爲韓文排版而製作，包含了整套現代諺文音節，以及一些漢字。此外，也提供用於程式碼編輯用途的等寬（monospaced）版本。
 ### 包含字符
