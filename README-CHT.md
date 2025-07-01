@@ -5,6 +5,7 @@
 「霞鶩文楷 KR」是一款基於 Fontworks 硬筆手書字型 [Klee One](https://github.com/fontworks-fonts/Klee) 衍生的開源字型。Klee One 由 Francis Chow 最初設計。
 
 「霞鶩文楷 KR」爲韓文排版而製作，包含了整套現代諺文音節，以及一些漢字。此外，也提供用於程式碼編輯用途的等寬（monospaced）版本。
+![](./documentation/wenkaikr.png)
 ### 包含字符
 - Unicode 所定義的所有現代諺文音節，共 11,172 個；
 - KS X 1001和 KS X 1002 收錄的所有漢字，共 4,620 + 2,856 = 7,476 個；

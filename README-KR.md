@@ -5,7 +5,8 @@
 #  LXGW 문해 KR / LXGW WenKai KR / 霞鶩文楷 KR
 [LXGW WenKai](https://github.com/lxgw/LxgwWenKai)의 한글판.
 ## 소개
-LXGW 문해(文楷) KR은 연필이나 펜으로 손으로 쓴 스크립트 글꼴로, 프란시스 차우가 처음 디자인한 Fontworks의 [Klee One](https://github.com/fontworks-fonts/Klee)에서 파생된 오픈 소스 글꼴입니다. 이 글꼴은 한글 타이포그래피용으로 제작되었으며, 현대 한글 음절과 몇 가지 한자를 모두 포함하고 있습니다. 또한 코딩을 위한 모노스페이스 버전도 제공합니다.
+LXGW 문해(文楷) KR은 연필이나 펜으로 손으로 쓴 스크립트 글꼴로, 프란시스 차우가 처음 디자인한 Fontworks의 [Klee One](https://github.com/fontworks-fonts/Klee)에서 파생된 오픈 소스 글꼴입니다. 이 글꼴은 한글 타이포그래피용으로 제작되었으며, 현대 한글 음절과 몇 가지 한자를 모두 포함하고 있습니다. 
+![](./documentation/wenkaikr.png)또한 코딩을 위한 모노스페이스 버전도 제공합니다.
 ### 문자
 - 유니코드로 정의된 모든 현대 한글 음절(11,172자);
 - KS X 1001 및 KS X 1002의 모든 한자(4,620 + 2,856 = 7,476자);
