@@ -9,6 +9,8 @@ jobs:
   release:
     if: github.event_name == 'release'
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     env:
       FULL_ZIP_NAME: lxgw-wenkai-tc-${{ github.event.release.tag_name }}
     steps:
