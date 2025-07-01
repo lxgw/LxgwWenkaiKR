@@ -11,7 +11,7 @@ LXGW WenKai KR is an open-source font derived from Fontworks' [Klee One](https:/
 - Most of Latin characters, punctuations and symbols in LXGW WenKai.
 ## Get the font
 ### Download the font files
-You can download the latest released fonts in [Releases](https://github.com/lxgw/LxgwWenKaiKR/releases) page. You can also download the pre-built font files in `fonts/TTF` folder.
+You can download the latest released fonts in [Releases](https://github.com/lxgw/LxgwWenKaiKR/releases) page. You can also download the pre-built font files in [fonts/TTF](./fonts/TTF) folder.
 ### Build fonts from the source
 You can run the complete build process with make: `make build`. The current source code can only be run on Unix-like systems and requires Python 3 to be installed.
 ## License

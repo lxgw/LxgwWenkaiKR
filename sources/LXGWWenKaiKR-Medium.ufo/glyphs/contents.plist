@@ -439,6 +439,8 @@
     <string>dollar.glif</string>
     <key>dong</key>
     <string>dong.glif</string>
+    <key>dotaccent</key>
+    <string>dotaccent.glif</string>
     <key>dotbelowcomb</key>
     <string>dotbelowcomb.glif</string>
     <key>dotlessi</key>

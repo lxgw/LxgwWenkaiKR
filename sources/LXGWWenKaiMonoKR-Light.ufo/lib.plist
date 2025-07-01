@@ -1718,6 +1718,7 @@
       <string>acute</string>
       <string>u02CA</string>
       <string>caron</string>
+      <string>dotaccent</string>
       <string>u02CB</string>
       <string>u02EA</string>
       <string>u02EB</string>
@@ -1861,11 +1862,11 @@
     <dict>
       <key>dlng</key>
       <array>
-        <string>Latn,Hant</string>
+        <string>Latn,Kore</string>
       </array>
       <key>slng</key>
       <array>
-        <string>Latn,Hant,ja,el,Cyrl</string>
+        <string>Latn,Kore,ja,el,Cyrl</string>
       </array>
     </dict>
     <key>public.postscriptNames</key>
