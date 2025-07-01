@@ -12,7 +12,7 @@ jobs:
     permissions:
       contents: write
     env:
-      FULL_ZIP_NAME: lxgw-wenkai-tc-${{ github.event.release.tag_name }}
+      FULL_ZIP_NAME: lxgw-wenkai-kr-${{ github.event.release.tag_name }}
     steps:
       - uses: actions/checkout@v4
       
