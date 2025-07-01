@@ -9,6 +9,7 @@ jobs:
   release:
     if: github.event_name == 'release'
     runs-on: ubuntu-latest
+    # set permission
     permissions:
       contents: write
     env:
