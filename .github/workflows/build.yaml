@@ -8,18 +8,18 @@ on:
   workflow_dispatch:
     inputs:
       version:
-        description: "版本号，格式vX.XXX"
+        description: "Version (format: vX.XXX)"
         required: true
         type: string
       release_date:
-        description: "版本日期，格式MONTH dd, YYYY。若空置将默认使用 UTC+8/上海当前的日期。"
+        description: "Date (format: MONTH dd, YYYY)"
         type: string
 
 jobs:
   build:
     runs-on: ubuntu-latest
     permissions:
-      # 允许 git-auto-commit 的 GITHUB_TOKEN 写入仓库
+      # set permission
       contents: write
     env: 
       VERSION_TAG: ${{ inputs.version }}
