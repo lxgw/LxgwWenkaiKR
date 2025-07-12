@@ -808,6 +808,8 @@ lookup vertVerticalAlternateslookup5 {
     sub quotedblright.full by u301F.vert;
     sub quoteleft.full by quoteleft.vert;
     sub quoteright.full by quoteright.vert;
+    sub kosmallhira by kosmallhira.vert;
+    sub kosmallkata by kosmallkata.vert;
 } vertVerticalAlternateslookup5;
 
 lookup caltContextualAlternateslookup7 {
