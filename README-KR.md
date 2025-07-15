@@ -37,5 +37,5 @@ LXGW 문해(文楷) KR은 연필이나 펜으로 손으로 쓴 스크립트 글�
 - 한글 음절 글리프 템플릿은 [@Partyb0ssishere](https://github.com/Partyb0ssishere)와 그의 [CEF Fonts CJK](https://github.com/Partyb0ssishere/cef-fonts-cjk)가 제공했습니다.
 - 일부 한자 글리프는 [@Steve-Yuu](https://github.com/Steve-Yuu)가 개발한 [Yshi Pen Shuti](https://github.com/Steve-Yuu/YshiPen-Shuti)에서 차용했습니다.
 - [Iosevka](https://github.com/be5invis/Iosevka)와 [Nerd-Fonts](https://github.com/ryanoasis/nerd-fonts)에서 모노스페이스 버전용 Powerline 기호를 제공했습니다.
-- 박스 드로잉 문자, 표의문자 설명 문자 및 일부 딩벳은 [본고딕](https://github.com/adobe-fonts/source-han-sans)에서 차용했습니다.
+- 박스 드로잉 기호, 표의문자 설명 문자 및 일부 딩벳은 [본고딕](https://github.com/adobe-fonts/source-han-sans)에서 차용했습니다.
 - [Aaron Bell](https://github.com/aaronbell)과 [@NightFurySL2001](https://github.com/NightFurySL2001)이 빌드 시스템을 제공하고 최적화했습니다.
