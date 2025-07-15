@@ -34,5 +34,5 @@ According to the license, you can use, embed, modify and redistribute this font 
 - [@Partyb0ssishere](https://github.com/Partyb0ssishere) and his [CEF Fonts CJK](https://github.com/Partyb0ssishere/cef-fonts-cjk) provided the template for Hangul syllable glyphs.
 - Some hanja glyphs were borrowed from [Yshi Pen Shuti](https://github.com/Steve-Yuu/YshiPen-Shuti) developed by [@Steve-Yuu](https://github.com/Steve-Yuu).
 - [Iosevka](https://github.com/be5invis/Iosevka) and [Nerd-Fonts](https://github.com/ryanoasis/nerd-fonts) provided Powerline symbols for monospaced version.
-- Box drawing characters, ideographic description characters and some dingbats were borrowed from [Source Han Sans](https://github.com/adobe-fonts/source-han-sans).
+- Box drawing symbols, ideographic description characters and some dingbats were borrowed from [Source Han Sans](https://github.com/adobe-fonts/source-han-sans).
 - [Aaron Bell](https://github.com/aaronbell) and [@NightFurySL2001](https://github.com/NightFurySL2001) provided and optimized the build system.
