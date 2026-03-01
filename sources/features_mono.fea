@@ -262,10 +262,10 @@ lookup vertVerticalAlternateslookup5 {
     sub u2010 by uFE32;
     sub u2015 by uFE31;
     sub u2016 by u2016.vert;
-    sub quoteleft by quoteleft.vert;
-    sub quoteright by quoteright.vert;
-    sub quotedblleft by quotedblleft.vert;
-    sub quotedblright by u301F.vert;
+   # sub quoteleft by quoteleft.vert;
+   # sub quoteright by quoteright.vert;
+   # sub quotedblleft by quotedblleft.vert;
+   # sub quotedblright by u301F.vert;
     sub twodotenleader by u205A;
     sub ellipsis by u205D;
     sub arrowleft by arrowup;
