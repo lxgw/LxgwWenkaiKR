@@ -7,6 +7,8 @@
 
 「霞鶩文楷 KR」爲韓文排版而製作，包含了整套現代諺文音節，以及一些漢字。此外，也提供用於程式碼編輯用途的等寬（monospaced）版本。
 
+此字型支援用於選擇標點符號寬度的 Unicode 變形序列。請[點擊此處](./documentation/uvs.pdf)查看詳情。
+
 ![](./documentation/wenkaikrhh-1.png)
 
 ![](./documentation/wenkaikrhh-2.png)
