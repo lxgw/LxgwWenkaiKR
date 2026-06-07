@@ -4,6 +4,8 @@ The Korean Edition of [LXGW WenKai](https://github.com/lxgw/LxgwWenKai).
 ## Introduction
 LXGW WenKai KR is an open-source font derived from Fontworks' [Klee One](https://github.com/fontworks-fonts/Klee), a script font handwritten by pencil or pen and originally designed by Francis Chow. This font is made for Korean typography and contains a complete set of modern Hangul syllables and a few Hanjas. It also provides monospaced version for coding.
 
+This font supports Unicode Variation Sequences, which are used to select punctuation widths. [Click here](./documentation/uvs.pdf) for more information.
+
 ![](./documentation/wenkaikr-1.png)
 
 ![](./documentation/wenkaikr-2.png)
