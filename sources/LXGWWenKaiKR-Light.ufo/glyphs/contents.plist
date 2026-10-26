@@ -216,7 +216,6 @@
     <string>P_i.glif</string>
     <key>Psi</key>
     <string>P_si.glif</string>
-
     <key>Q</key>
     <string>Q_.glif</string>
     <key>R</key>
@@ -1979,7 +1978,6 @@
     <string>u04F_F_.glif</string>
     <key>u0E3F</key>
     <string>u0E_3F_.glif</string>
-
     <key>u1D00</key>
     <string>u1D_00.glif</string>
     <key>u1D04</key>
@@ -3020,6 +3018,8 @@
     <string>u201F_.glif</string>
     <key>u2034</key>
     <string>u2034.glif</string>
+    <key>u2035</key>
+    <string>u2035.glif</string>
     <key>u2036</key>
     <string>u2036.glif</string>
     <key>u2037</key>
@@ -3236,7 +3236,6 @@
     <string>u31B_7.glif</string>
     <key>u31BB</key>
     <string>u31B_B_.glif</string>
-
     <key>uA730</key>
     <string>uA_730.glif</string>
     <key>uA731</key>
