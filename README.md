@@ -38,3 +38,5 @@ According to the license, you can use, embed, modify and redistribute this font 
 - [Iosevka](https://github.com/be5invis/Iosevka) and [Nerd-Fonts](https://github.com/ryanoasis/nerd-fonts) provided Powerline symbols for monospaced version.
 - Box drawing symbols, ideographic description characters and some dingbats were borrowed from [Source Han Sans](https://github.com/adobe-fonts/source-han-sans).
 - [Aaron Bell](https://github.com/aaronbell) and [@NightFurySL2001](https://github.com/NightFurySL2001) provided and optimized the build system.
+## More open-source Korean fonts
+- [LXGW Marker Gothic KR](https://github.com/lxgw/LxgwMarkerGothicKR)
