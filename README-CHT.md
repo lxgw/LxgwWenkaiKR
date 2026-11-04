@@ -43,3 +43,5 @@
 - [Iosevka](https://github.com/be5invis/Iosevka) / [Nerd-Fonts](https://github.com/ryanoasis/nerd-fonts) 提供等寬字型所用的 Powerline 符號；
 - 方塊繪製字元、表意文字結構描述符（Ideographic Description Character, IDC）等字元借自 [思源黑體](https://github.com/adobe-fonts/source-han-sans)；
 - [Aaron Bell](https://github.com/aaronbell)、[@夜煞之樂](https://github.com/NightFurySL2001) 提供和優化構建流程。
+## 更多開源韓文字型
+- [霞鶩漫黑 KR](https://github.com/lxgw/LxgwMarkerGothicKR)
