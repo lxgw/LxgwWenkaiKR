@@ -16,7 +16,7 @@
 ![](./documentation/wenkaikr-3.png)
 ### 包含字符
 - Unicode 所定義的所有現代諺文音節，共 11,172 個；
-- KS X 1001和 KS X 1002 收錄的所有漢字，共 4,620 + 2,856 = 7,476 個；
+- KS X 1001 和 KS X 1002 收錄的所有漢字，共 4,620 + 2,856 = 7,476 個；
 - [國際表意文字核心（IICore）](https://github.com/NightFurySL2001/CJK-character-count/blob/master/iicore-han.txt)收錄的 9,810 個漢字；
 - 「霞鶩文楷」所包含的大部分拉丁字符、標點符號和特殊符號。
 ## 獲取字體
