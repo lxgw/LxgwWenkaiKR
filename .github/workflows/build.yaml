@@ -5,6 +5,8 @@ on:
     # do not run when push tag
     branches:
         - '**'
+    paths:
+        - 'sources/**'
   workflow_dispatch:
     inputs:
       version:
@@ -14,6 +16,10 @@ on:
       release_date:
         description: "Date (format: MONTH dd, YYYY)"
         type: string
+
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
 
 jobs:
   build:
